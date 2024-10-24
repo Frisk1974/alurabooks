@@ -1,3 +1,4 @@
+/* Minimal Reset CSS */
 *,
 *::before,
 *::after {
@@ -8,7 +9,7 @@
 }
 
 html {
-    font-size: 100%; 
+    font-size: 100%; /* base 16px */
     scroll-behavior: smooth;
 }
 
